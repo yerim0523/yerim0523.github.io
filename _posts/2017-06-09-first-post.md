@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World!"
-date: 2017-06-09 12:00:00 -0500
+title: "첫 번째 포스트"
+date: 2020-06-28 12:00:00 -0500
 ---
 
-Hey, it's just my first post!
+첫 번째 포스트입니다 ^_^ㅎ
 
 From [http://slipsum.com/lite/](http://slipsum.com/lite/):
 
