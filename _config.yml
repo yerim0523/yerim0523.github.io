@@ -6,7 +6,7 @@ description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio!"
 permalink: pretty
-baseurl: https://yerim0523.github.io/
+baseurl: 
 
 # social
 github:
