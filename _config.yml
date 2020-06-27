@@ -1,0 +1,16 @@
+# Site settings
+name: name
+email: email
+url: https://yerim0523.github.io/
+description: "A blog and a portfolio"
+author: "author"
+title: "BlogFolio"
+permalink: pretty
+baseurl: /jekyll-theme-blogfolio
+
+# social
+github:
+  username: https://github.com/yerim0523
+
+twitter:
+  username: username
