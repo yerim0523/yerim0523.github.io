@@ -93,6 +93,7 @@ v.push_back(make_pair(a,a));
 * 기본 설정으로 이미지를 가져오면 절대 경로로 표기된다.
 * 이 경우 Github이나 다른 컴퓨터에는 해당 이미지가 없어 깨지는현상이 발생할 수 있다. 따라서 아래의 설정을 해주자.
 
+출처 : [https://blog.naver.com/dhsin0468/222069317484](https://blog.naver.com/dhsin0468/222069317484)
 
 ## 표
 
@@ -102,6 +103,3 @@ v.push_back(make_pair(a,a));
 | ---- | ------ |
 | 1    | 홍길동 |
 | 2    | 김철수 |
-
-
-출처 : [https://blog.naver.com/dhsin0468/222069317484](https://blog.naver.com/dhsin0468/222069317484)
