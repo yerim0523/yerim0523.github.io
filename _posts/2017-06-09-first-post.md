@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "첫 번째 포스트"
+title: "마크다운 문법 정리"
 date: 2020-10-12 12:00:00 -0500
 ---
 
@@ -92,9 +92,7 @@ v.push_back(make_pair(a,a));
 
 * 기본 설정으로 이미지를 가져오면 절대 경로로 표기된다.
 * 이 경우 Github이나 다른 컴퓨터에는 해당 이미지가 없어 깨지는현상이 발생할 수 있다. 따라서 아래의 설정을 해주자.
-  * 
 
-![1_xLCB49Yp90nL8eKn-fICLQ](markdown-images/1_xLCB49Yp90nL8eKn-fICLQ-1594185189020.png)
 
 ## 표
 
@@ -104,4 +102,6 @@ v.push_back(make_pair(a,a));
 | ---- | ------ |
 | 1    | 홍길동 |
 | 2    | 김철수 |
-[출처] 마크다운 문법 정리|작성자 밀알
+
+
+출처 : [https://blog.naver.com/dhsin0468/222069317484](https://blog.naver.com/dhsin0468/222069317484)
