@@ -15,6 +15,11 @@ body {
   /*font-family: 'Nanum Gothic Coding', monospace;*/
 }
 
+.header-line {
+  border-bottom: 1px solid #eee;
+  background-color: rgba(255,255,255,0.75);
+}
+
 .page-footer {
   position: absolute;
   bottom: 0;
