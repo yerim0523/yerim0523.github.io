@@ -56,7 +56,7 @@ print(random.sample(numbers,6))
     import random
 </h1>
 ```
-
+ 
 ```c++
 #include <iostream>
 #include <vector>
