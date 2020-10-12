@@ -11,7 +11,7 @@ body {
   position: relative;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: "Crimson Text", "Georgia", serif;
+  font-family: "Jeju Gothic", serif;
 }
 
 .page-footer {
@@ -31,6 +31,6 @@ body {
 }
 
 .hero.is-primary {
-  background-color: #FF8C69;
+  background-color: #a0b6f8;
   color: white;
 }
