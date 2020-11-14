@@ -2,7 +2,6 @@
 layout: post
 title: "첫 번째 포스트"
 category: 테스트
-tags: 테스트
 date: 2020-06-28 12:00:00 -0500
 ---
 
