@@ -1,5 +1,9 @@
 {
     "items": [{
+            "name": "Category",
+            "link": "/category/"
+        },
+        {
             "name": "Portfolio",
             "link": "/portfolio/"
         },
