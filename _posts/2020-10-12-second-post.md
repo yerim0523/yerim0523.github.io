@@ -2,6 +2,7 @@
 layout: post
 title: "마크다운 문법 정리"
 category: 마크다운
+tags: ["markdown", "study", "post"]
 date: 2020-10-12 12:00:00 -0500
 ---
 
