@@ -3,11 +3,6 @@
  * Forked from https://github.com/aaronshaf/react-toggle/
  * + applied https://github.com/aaronshaf/react-toggle/pull/90
  **/
-
-import './toggle.css';
-
-import React, { PureComponent } from 'react';
-
 // Copyright 2015-present Drifty Co.
 // http://drifty.com/
 // from: https://github.com/driftyco/ionic/blob/master/src/util/dom.ts
