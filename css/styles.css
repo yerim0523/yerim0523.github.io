@@ -58,3 +58,9 @@ body {
   flex: none;
   width: 60%;
 }
+
+.tag.is-primary {
+  border-bottom: 1px solid #5f5f5f;
+  padding: 6px;
+  color: #000;
+}
