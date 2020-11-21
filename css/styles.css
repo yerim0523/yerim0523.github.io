@@ -43,6 +43,7 @@ body {
 
 .font-eng {
   font-family: 'Asap', sans-serif;
+  font-weight: 600;
 }
 
 .font-kor {
@@ -60,7 +61,6 @@ body {
 }
 
 .y-tag.is-primary {
-  font-weight: 600;
   font-size: 12px;
   border: 1px solid #9b9b9d;
   border-radius: 4px;
