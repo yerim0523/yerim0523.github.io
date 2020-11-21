@@ -4,13 +4,10 @@ email: qkfkaroql96@gmail.com
 url: 
 description: "A blog and a portfolio"
 author: "author"
-title: "Yerim's Blog"
+title: "Yerim's DevLog"
 permalink: pretty
 baseurl: 
 
 # social
 github:
   username: yerim0523
-
-twitter:
-  username: username

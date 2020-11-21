@@ -40,3 +40,11 @@ body {
   background-color: #d4b9f7;
   color: white;
 }
+
+.font-eng {
+  font-family: 'Asap', sans-serif;
+}
+
+.font-kor {
+  font-family: "Nanum Gothic Coding", monospace;
+}
