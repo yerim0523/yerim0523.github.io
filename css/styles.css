@@ -57,13 +57,12 @@ body {
 }
 
 .y-column.is-offset-one-quarter {
-  margin-left: 20%;
+  
 }
 
 .y-column.is-half {
   -webkit-box-flex: 0;
   flex: none;
-  width: 60%;
 }
 
 .y-tag.is-primary {
