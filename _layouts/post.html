@@ -22,10 +22,9 @@ layout: default
             {% for tag in post.tags %}
                 <span class="y-tag is-primary">{{tag}}</span> 
             {% endfor %}
-
-            <br>
+        </div>
+        <div>
             <hr>
-            <br>
             {% include disqus_comments.html %}
         </div>
     </div>
