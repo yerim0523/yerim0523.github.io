@@ -57,7 +57,8 @@ body {
 }
 
 .y-column.is-offset-one-quarter {
-  
+  margin-left: 1%;
+  margin-right: 1%;
 }
 
 .y-column.is-half {
