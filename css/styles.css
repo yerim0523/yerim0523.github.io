@@ -3,6 +3,11 @@
   padding: 3rem 1.5rem 6rem;
 }
 
+nav {
+  height: 4rem !important;
+  background: linear-gradient(90deg,#423434,#988b3f 25%,#967950 46%,#af7a28 69%,#eceb08) !important;
+}
+
 html {
   height: 100%;
 }
