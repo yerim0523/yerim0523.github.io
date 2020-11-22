@@ -2,7 +2,11 @@
     <div class="container">
 
         <div class="nav-left">
-            <a class="nav-item" target="_blank" href="https://www.github.com/{{site.github.username}}/">
+            <a class="nav-item" href="{{ '' | relative_url }}/">
+                <span class="font-eng" style="font-size: 32px; font-weight:900;">Yerim's DevLog</span>
+            </a>
+            
+            <!--<a class="nav-item" target="_blank" href="https://www.github.com/{{site.github.username}}/">
                 <span class="icon">
                     <i class="fa fa-github"></i>
                 </span>
@@ -12,16 +16,16 @@
                 <span class="icon">
                     <i class="fa fa-envelope-square"></i>
                 </span>
-            </a>
+            </a>-->
         </div>
 
         <div class="nav-center">
-            <a class="nav-item" href="{{ '' | relative_url }}/">
-                <!-- <span class="icon">
+            <!--<a class="nav-item" href="{{ '' | relative_url }}/">
+                 <span class="icon">
                     <i class="fa fa-home"></i>
-                </span> -->
+                </span> 
                 <span class="font-eng" style="font-size: 32px; font-weight:900;">Yerim's DevLog</span>
-            </a>
+            </a>-->
         </div>
 
         <span class="nav-toggle">
@@ -36,6 +40,12 @@
                 <span>{{item.name}}</span>
             </a>
             {% endfor %}
+
+            <a class="nav-item" target="_blank" href="https://www.github.com/{{site.github.username}}/">
+                <span class="icon">
+                    <i class="fa fa-github"></i>
+                </span>
+            </a>
         </div>
 
 </nav>
