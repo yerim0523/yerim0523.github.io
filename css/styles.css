@@ -5,7 +5,7 @@
 
 nav {
   height: 4rem !important;
-  background: linear-gradient(90deg,#db82a0,#aa68c9 25%,#f092c1 46%,#cf6798 69%,#fda3c6) !important;
+  background: linear-gradient(90deg,#f0a0bb,#ee89a2 25%,#f7a9d0 46%,#fa95b3 40%,#fda3c6) !important;
 }
 
 html {
@@ -42,8 +42,7 @@ body {
 }
 
 .hero.is-primary {
-  background-color: #d4b9f7;
-  color: white;
+  background-color: white;
   height: 50px;
 }
 
