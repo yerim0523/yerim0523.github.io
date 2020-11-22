@@ -5,7 +5,7 @@
 
 nav {
   height: 4rem !important;
-  background: linear-gradient(90deg,#f0a0bb,#ee89a2 25%,#f7a9d0 46%,#fa95b3 40%,#fda3c6) !important;
+  background: linear-gradient(90deg,#ffbed3,#fca5bb 23%,#ffcfe1 50%,#ffc2d5 70%,#fda3c6) !important;
 }
 
 html {
@@ -48,7 +48,7 @@ body {
 
 .font-eng {
   font-family: 'Asap', sans-serif;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .font-kor {
