@@ -61,7 +61,6 @@ body {
 
 .y-column.is-half {
   -webkit-box-flex: 0;
-  flex: none;
 }
 
 .y-tag.is-primary {
