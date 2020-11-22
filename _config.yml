@@ -11,3 +11,7 @@ baseurl:
 # social
 github:
   username: yerim0523
+
+#disqus
+disqus_url: https://https-yerim0523-github-io.disqus.com/
+disqus_id: https-yerim0523-github-io
