@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "프로그래머스 - 2016"
-categories: [프로그래머스]]
+categories: [프로그래머스]
 tags: ["programmers", "algorithm", "java"]
 date: 2020-11-22 17:00:00 -0500
 ---
