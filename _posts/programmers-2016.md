@@ -1,0 +1,45 @@
+---
+layout: post
+title: "프로그래머스 - 2016"
+categories: [프로그래머스]]
+tags: ["programmers", "algorithm", "java"]
+date: 2020-11-22 17:00:00 -0500
+---
+
+## 2016
+***
+2016년 1월 1일은 금요일입니다. 2016년 a월 b일은 무슨 요일일까요?
+두 수 a ,b를 입력받아 2016년 a월 b일이 무슨 요일인지 리턴하는 함수, solution을 완성하세요.
+요일의 이름은 일요일부터 토요일까지 각각 ( SUN,MON,TUE,WED,THU,FRI,SAT ) 입니다. 
+예를 들어 a=5, b=24라면 5월 24일은 화요일이므로 문자열 TUE를 반환하세요.
+***
+### 제한조건
+***
+* 2016년은 윤년입니다.
+* 2016년 a월 b일은 실제로 있는 날입니다. (13월 26일이나 2월 45일같은 날짜는 주어지지 않습니다.)
+***
+
+
+```Java
+import java.util.Date;
+
+class Solution {
+  public String solution(int a, int b) {
+      Date d = new Date();		// Date 객체 생성
+
+      String answer;
+
+      // 요일 배열 선언 ( 0-일요일, 1-월요일 ... 6-토요일)
+      String[] week = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"};
+
+      // setYear(), setMonth(), setDate() 날짜 세팅
+      d.setYear(2016); 	// 2016 년 기준이므로 2016 넣어서 년도 세팅
+      d.setMonth(a-1);	// Month 는 0~11월로 받아들이기 때문에 매개변수로 받은 a 에서 -1 시켜준다.
+      d.setDate(b);		// Date 는 1일 부터 31일 사이의 값을 넣어주면 일수로 세팅됨.
+
+      answer = week[d.getDay()-1];	// answer = week[d.getDay()]; 라고 입력했을 경우, 요일이 하나씩 미뤄짐.
+
+      return answer;
+  }
+}
+```
